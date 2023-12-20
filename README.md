@@ -1,5 +1,3 @@
-#Buliding-an-E-commerece-Multi-language-Arabic-and-English-conversational-Ai-chatbot.
-Build a chatbot
-that enables consumers to interact the way they would with other humans and had quantifed success by using NLP,
-Deep Learning Techniques, HTML, CSS, and Java Script. The Arabic model scored 97 percent, while the English
+Developed a multilingual conversational AI e-commerce chatbot (Arabic and English) using deep learning and NLP techniques.Differentiated from standard platforms by leveraging learned patterns over predefined responses.
+Utilized tools such as NLP, Deep Learning (Sequence to Sequence model), Logistic Regression, HTML, CSS, JavaScript, Flask, and platforms like Dialogue flow, Rasa, and Microsoft Azure. The Arabic model scored 97 percent, while the English
 model scored 94 percent.
